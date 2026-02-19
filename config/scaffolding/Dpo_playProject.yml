@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Dpo_playProject
+  gitServerName: dpo_github
+  gitUrl: https://github.com/david-poland-IBM
+  gitUsername: david-poland-IBM
+  gitBranch: main
