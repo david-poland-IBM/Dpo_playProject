@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/david-poland-IBM
   gitUsername: david-poland-IBM
   gitBranch: main
+- name: DpoTest
+  gitServerName: dpo_github
+  gitUrl: https://github.com/david-poland-IBM
+  gitUsername: david-poland-IBM
+  gitBranch: main
